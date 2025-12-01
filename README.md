@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Senior Product Manager with 13+ years of experience in Product, Tech, and Customer Service platforms
+Former senior product manager with 13+ years of experience in Product, Tech, and Customer Service platforms
 
 # 💫 About Me
 Product expert with 13+ years of experience in building and scaling customer service and third party CRM platforms like Lithium, Zendesk, Sprinklr, Social Studio, and Salesforce. Proven track record in driving product strategy, executing multi-million-dollar cost reductions/optimizations, and leading cross-functional teams to scale operations for 50M+ users across multiple regions from the pre-unicorn days, through the decacorn era, and into GoTo’s journey as a public company in Indonesia.
