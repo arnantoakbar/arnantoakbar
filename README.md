@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **arnantoakbar/arnantoakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 🔭 Headline
+Senior Product Manager with 13+ years of experience in Product, Tech, and Customer Service platforms
 
-# 💫 About Me:
-Product expert with 13+ years of experience in building and scaling customer service and third party CRM platforms like Lithium, Zendesk, Sprinklr, Social Studio, and Salesforce. Proven track record in driving product strategy, executing multi-million-dollar cost reductions/optimizations, and leading cross-functional teams to scale operations for 50M+ users across multiple regions from the pre-unicorn days, through the decacorn era, and into GoTo’s journey as a public company in Indonesia. <br><br>With high-skilled domains in product, engineering, enterprise platform, and customer service business for more than 13 years, Arnanto can supercharge large-scale global business operations to achieve scalability and efficiency with technology specifically in operations areas.
+# 💫 About Me
+Product expert with 13+ years of experience in building and scaling customer service and third party CRM platforms like Lithium, Zendesk, Sprinklr, Social Studio, and Salesforce. Proven track record in driving product strategy, executing multi-million-dollar cost reductions/optimizations, and leading cross-functional teams to scale operations for 50M+ users across multiple regions from the pre-unicorn days, through the decacorn era, and into GoTo’s journey as a public company in Indonesia.
+<br><br>
+With high-skilled domains in product, engineering, enterprise platform, and customer service business for more than 13 years, Arnanto can supercharge large-scale global business operations to achieve scalability and efficiency with technology specifically in operations areas.
 
+# ✨ Experience
+- Senior Product Manager at GoTo (7 years) | 2018-2025
+- Head of Service Excellence Product at GoTo (2 years) | 2016-2018
+- Digital Care Analyst at XL Axiata (1 year) | 2015-2016
+- Sr. Officer of Customer Experience Helpdesk (2 years) | 2014-2015
+- Software Engineer of Enterprise Application Support (2 years) | 2012-2014
+- Web Developer at Telkom Indonesia (internship) | 2009
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arnanto.akbar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnantoakbar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnanto) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arnan.to) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arnantoakbar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arnantoakbar) 
