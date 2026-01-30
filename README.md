@@ -26,12 +26,12 @@ I focus on hands-on impact, solving systemic ops problems with data-driven solut
 <br>
 
 ## ✨ Experience
-- Senior Product Manager at GoTo Group (_7 years_) | *2018 - 2025*
-- Head of Service Excellence Product at GoTo Group (_2 years_) | *2016 - 2018*
-- Digital Care Experience Analyst at XLSMART (_1 year_) | *2015 - 2016*
-- Customer Experience Helpdesk Officer at XLSMART (_2 years_) | *2014 - 2015*
-- Software Engineer of Enterprise Application Support at Bakrie Telecom (_2 years_) | *2012 - 2014*
-- Web Developer Intern at Telkom Indonesia | *2009*
+- Senior Product Manager at GoTo Group (_7 years_) | **2018 - 2025**
+- Head of Service Excellence Product at GoTo Group (_2 years_) | **2016 - 2018**
+- Digital Care Experience Analyst at XLSMART (_1 year_) | **2015 - 2016**
+- Customer Experience Helpdesk Officer at XLSMART (_2 years_) | **2014 - 2015**
+- Software Engineer of Enterprise Application Support at Bakrie Telecom (_2 years_) | **2012 - 2014**
+- Web Developer Intern at Telkom Indonesia | **2009**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arnanto.akbar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnantoakbar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnanto) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@arnan.to) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arnantoakbar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arnantoakbar) 
