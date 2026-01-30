@@ -12,19 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Former senior product manager with 13+ years of experience in Product, Tech, and Customer Service platforms
+An IC product builder who improves large-scale operations through automation and systems with 13+ years of experience in Product, Tech, and Customer Service platforms
 
 # 💫 About Me
-Product expert with 13+ years of experience in building and scaling customer service and third party CRM platforms like Lithium, Zendesk, Sprinklr, Social Studio, and Salesforce. Proven track record in driving product strategy, executing multi-million-dollar cost reductions/optimizations, and leading cross-functional teams to scale operations for 50M+ users across multiple regions from the pre-unicorn days, through the decacorn era, and into GoTo’s journey as a public company in Indonesia.
+I’m a Senior Product Manager with *13+ years of experience* building and scaling internal platforms, automation tooling, and enterprise CRM systems across Southeast Asia. I specialize in *translating complex operations into scalable product solutions* that improve customer support workflows, reduce costs, and deliver measurable efficiency gains.
 <br><br>
-With high-skilled domains in product, engineering, enterprise platform, and customer service business for more than 13 years, Arnanto can supercharge large-scale global business operations to achieve scalability and efficiency with technology specifically in operations areas.
+My experience spans:
+- *Internal tooling & automation:* building AI-assisted workflows, routing engines, and custom platform extensions
+- *CRM & support ecosystems:* owning Salesforce Service Cloud and related systems
+- *Operational impact:* delivering multi-million dollar cost savings and operational efficiency improvements across multi-country operations
+<br><br>
+I focus on hands-on impact, solving systemic ops problems with data-driven solutions and technical fluency, without managing large teams. I’m actively exploring IC roles in platform products, internal tools, automation, and operations systems where I can bring strategic insight and execution strength.
 <br>
 
 ## ✨ Experience
 - Senior Product Manager at GoTo Group (_7 years_) | *2018 - 2025*
 - Head of Service Excellence Product at GoTo Group (_2 years_) | *2016 - 2018*
-- Digital Care Analyst at XLSMART (_1 year_) | *2015 - 2016*
-- Sr. Officer of Customer Experience Helpdesk at XLSMART (_2 years_) | *2014 - 2015*
+- Digital Care Experience Analyst at XLSMART (_1 year_) | *2015 - 2016*
+- Customer Experience Helpdesk Officer at XLSMART (_2 years_) | *2014 - 2015*
 - Software Engineer of Enterprise Application Support at Bakrie Telecom (_2 years_) | *2012 - 2014*
 - Web Developer Intern at Telkom Indonesia | *2009*
 
