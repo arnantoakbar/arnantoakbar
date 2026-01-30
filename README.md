@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 An IC product builder who improves large-scale operations through automation and systems with 13+ years of experience in Product, Tech, and Customer Service platforms
 
 # 💫 About Me
-I’m a Senior Product Manager with *13+ years of experience* building and scaling internal platforms, automation tooling, and enterprise CRM systems across Southeast Asia. I specialize in *translating complex operations into scalable product solutions* that improve customer support workflows, reduce costs, and deliver measurable efficiency gains.
+I’m a Senior Product Manager with **13+ years of experience** building and scaling internal platforms, automation tooling, and enterprise CRM systems across Southeast Asia. I specialize in **translating complex operations into scalable product solutions** that improve customer support workflows, reduce costs, and deliver measurable efficiency gains.
 <br><br>
 My experience spans:
-- *Internal tooling & automation:* building AI-assisted workflows, routing engines, and custom platform extensions
-- *CRM & support ecosystems:* owning Salesforce Service Cloud and related systems
-- *Operational impact:* delivering multi-million dollar cost savings and operational efficiency improvements across multi-country operations
+- **Internal tooling & automation:** building AI-assisted workflows, routing engines, and custom platform extensions
+- **CRM & support ecosystems:** owning Salesforce Service Cloud and related systems
+- **Operational impact:** delivering multi-million dollar cost savings and operational efficiency improvements across multi-country operations
+
 <br><br>
-I focus on hands-on impact, solving systemic ops problems with data-driven solutions and technical fluency, without managing large teams. I’m actively exploring IC roles in platform products, internal tools, automation, and operations systems where I can bring strategic insight and execution strength.
+I focus on hands-on impact, solving systemic ops problems with data-driven solutions and technical fluency, without managing large teams. I’m actively exploring IC roles in **platform products, internal tools, automation, and operations systems** where I can bring strategic insight and execution strength.
 <br>
 
 ## ✨ Experience
