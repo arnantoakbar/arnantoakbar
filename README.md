@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 An IC product builder who improves large-scale operations through automation and systems with 13+ years of experience in Product, Tech, and Customer Service platforms
 
 # 💫 About Me
-I’m a Senior Product Manager with **13+ years of experience** building and scaling internal platforms, automation tooling, and enterprise CRM systems across Southeast Asia. I specialize in **translating complex operations into scalable product solutions** that improve customer support workflows, reduce costs, and deliver measurable efficiency gains.
+I’m a Senior Product Manager with **14+ years of experience** building and scaling internal platforms, automation tooling, and enterprise CRM systems across Southeast Asia. I specialize in **translating complex operations into scalable product solutions** that improve customer support workflows, reduce costs, and deliver measurable efficiency gains.
 
 My experience spans:
 - **Internal tooling & automation:** building AI-assisted workflows, routing engines, and custom platform extensions
